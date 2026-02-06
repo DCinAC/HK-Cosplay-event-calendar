@@ -1,18 +1,18 @@
 # 香港Cosplay活動電子日程
-一個可以隨時匯入電子日曆嘅Cos Event日程\n
-每周更新
+一個可以隨時匯入電子日曆嘅Cos Event日程<br>
+##每周更新!
 Source：
-@acgeventhk (Instagram) \n
-@coslife.station (Instagram) \n\n
+@acgeventhk (Instagram) <br>
+@coslife.station (Instagram) <br><br>
 
 (Below are English version)
 
 # HK-Cosplay-event-calendar
-A WebDAV compatible list of past and upcoming Cosplay event in HK\m
-Updates weekly
+A WebDAV compatible list of past and upcoming Cosplay event in HK <br>
+##Updates weekly!
 
 Source：
-@acgeventhk (Instagram)\n
+@acgeventhk (Instagram)<br>
 @coslife.station (Instagram)
 #
 #如何使用：
