@@ -6,8 +6,6 @@ Source：<br>
 @acgeventhk (Instagram) <br>
 @coslife.station (Instagram) <br><br>
 
-(Below are English version) <br><br>
-
 # HK-Cosplay-event-calendar <br>
 A WebDAV compatible list of past and upcoming Cosplay event in HK <br>  
 
